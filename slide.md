@@ -1,7 +1,7 @@
 Coursera Data Science Capstone: Course Project
 ========================================================
 author: Arpad Kovacs
-date: Thu Jan 04 17:33:53 2018
+date: Thu Jan 04 19:17:55 2018
 
 
 ![header](./www/headers.png)

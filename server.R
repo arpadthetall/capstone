@@ -13,7 +13,7 @@ trigram <- readRDS("trigram.RData");
 bigram <- readRDS("bigram.RData");
 mesg <<- ""
 
-# Cleaning of user input before predicting the next word
+# User input cleaning before next word prediction
 
 Predict <- function(x) {
   xclean <- removeNumbers(removePunctuation(tolower(x)))
